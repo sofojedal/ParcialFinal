@@ -1,0 +1,7 @@
+/home/lauraojeda/Documentos/OptativaHPC/ParcialFinal/ParcialFinal/Debug/CMakeFiles/ParcialFinal.dir
+/home/lauraojeda/Documentos/OptativaHPC/ParcialFinal/ParcialFinal/Debug/CMakeFiles/edit_cache.dir
+/home/lauraojeda/Documentos/OptativaHPC/ParcialFinal/ParcialFinal/Debug/CMakeFiles/rebuild_cache.dir
+/home/lauraojeda/Documentos/OptativaHPC/ParcialFinal/ParcialFinal/Debug/CMakeFiles/list_install_components.dir
+/home/lauraojeda/Documentos/OptativaHPC/ParcialFinal/ParcialFinal/Debug/CMakeFiles/install.dir
+/home/lauraojeda/Documentos/OptativaHPC/ParcialFinal/ParcialFinal/Debug/CMakeFiles/install/local.dir
+/home/lauraojeda/Documentos/OptativaHPC/ParcialFinal/ParcialFinal/Debug/CMakeFiles/install/strip.dir
